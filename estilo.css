@@ -223,7 +223,7 @@ body {
 
 .carousel-caption h1 {
     font-family: 'Arial', sans-serif; /* Fuente principal */
-    font-size: 6rem; /* Tamaño del texto */
+    font-size: 3rem; /* Tamaño del texto */
     font-weight: bold; /* Texto en negrita */
     color: #fff; /* Texto blanco */
 }
